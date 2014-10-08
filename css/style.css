@@ -77,3 +77,11 @@ tr:first-child th, tr:first-child td {
   float: right;
   max-width: 300px;
 }
+
+.footer {
+	padding-top:1em;
+	padding-bottom:1em;
+	background: #4C2F14;
+	margin-top:1em;
+}
+
