@@ -31,6 +31,14 @@ h3 {font-size: 1.44em;}
 
 h4 {font-size: 1.2em;}
 
+a {
+	color:#E0D4BC;
+	}
+	
+a:hover {
+	font-style:italic;
+	}
+
 small, .small {font-size: 0.833em;}
 
 .container {
@@ -43,13 +51,6 @@ img {
   display: block;
   max-width: 100%;
   border-radius:.5em;
-}
-
-a {
-  color: black;
-}
-a:hover {
-  color: white;
 }
 
 .header {
@@ -83,5 +84,6 @@ tr:first-child th, tr:first-child td {
 	padding-bottom:1em;
 	background: #4C2F14;
 	margin-top:1em;
+	color:white;
 }
 
