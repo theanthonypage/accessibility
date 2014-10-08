@@ -3,7 +3,7 @@ html,body {
   padding: 0;
 }
 body {
-  background-color: #F3EEE4/*#E0D4BC--#C1A878*/;
+  background-color: #F9F5F1/*#E0D4BC--#C1A878*/;
   font-family: 'Georgia', serif;
   font-weight: 400;
   font-size: 18px;
@@ -11,7 +11,9 @@ body {
   color: #494242/*#685F5F*/;
 }
 
-p {margin-bottom: 1.3em;}
+p {margin-bottom: 1.3em;
+	text-indent:.5em;
+}
 
 h1, h2, h3, h4 {
   margin: 1.414em 0 0.5em;
